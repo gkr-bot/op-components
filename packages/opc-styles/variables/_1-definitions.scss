@@ -7,15 +7,16 @@ $USE-FALLBACK: true;
 
 /// Global variables for Gap/ Spacing in layout
 /// Small Space
-$opc-gap-4: 4px;
-$opc-gap-8: 8px;
-$opc-gap-12: 12px;
-$opc-gap-16: 16px;
+$opc-global-spacer-sm-4px: 4px;
+$opc-global-spacer-sm-8px: 8px;
+$opc-global-spacer-sm-12px: 12px;
+$opc-global-spacer-sm-16px: 16px;
 /// Medium Space
-$opc-gap-20: 20px;
-$opc-gap-24: 24px;
-$opc-gap-28: 28px;
-$opc-gap-32: 32px;
+$opc-global-spacer-md-20px: 20px;
+$opc-global-spacer-md-24px: 24px;
+$opc-global-spacer-md-28px: 28px;
+$opc-global-spacer-md-32px: 32px;
 /// Large Space between the containers
-$opc-gap-64: 64px;
-$opc-gap-72: 72px;
+$opc-global-spacer-lg-64px: 64px;
+$opc-global-spacer-lg-72px: 72px;
+$opc-global-spacer-lg-144px: 144px;
